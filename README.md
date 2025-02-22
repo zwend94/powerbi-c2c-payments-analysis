@@ -1,0 +1,1 @@
+This Power BI dashboard analyzes Consumer-to-Consumer (C2C) payment transactions and Direct Trade Agreement (DTA) anomalies. It provides insights into payment patterns, anomaly detection, and customer payment behaviors across different sectors and payment methods.
